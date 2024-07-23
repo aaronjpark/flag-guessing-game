@@ -1,7 +1,7 @@
-# Project Title
+# Flag Guessing Game
 
 ## Description
-A brief description of your project.
+Flag Guessing Game
 
 ## Getting Started
 
